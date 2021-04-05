@@ -7,6 +7,9 @@ Colab Notebooks폴더에 crawl_data와 crawled_data 폴더를 추가함.
 - crawl_data: company_list.txt 저장
 - crawled_data: 최종 CSV 저장
 
+
+- company_list.txt는 각 기업에 해당하는 ID 값을 저장한 리스트이다.
+
 ## 2. 웹 크롤러
 *참고: https://hengju.tistory.com/36*
 
