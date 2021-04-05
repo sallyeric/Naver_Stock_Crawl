@@ -8,7 +8,7 @@ Colab Notebooks폴더에 crawl_data와 crawled_data 폴더를 추가함.
 - crawled_data: 최종 CSV 저장
 
 ## 2. 웹 크롤러
-*참고: https://hengju.tistory.com/36 *
+* 참고: https://hengju.tistory.com/36 *
 
 
 헹쥬 블로그 코드를 참고했는데 Dataframe을 만드는 과정에서 오류가 있었다.
