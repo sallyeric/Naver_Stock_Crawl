@@ -1,13 +1,13 @@
 # Naver_Stock_Crawl
 Naver Stock News Web Crawler
 
-##1. 파일 경로
+## 1. 파일 경로
 Colab Notebooks폴더에 crawl_data와 crawled_data 폴더를 추가함.
 
 - crawl_data: company_list.txt 저장
 - crawled_data: 최종 CSV 저장
 
-##2. 웹 크롤러
+## 2. 웹 크롤러
 참고2: https://hengju.tistory.com/36  ***
 
 
