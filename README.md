@@ -41,3 +41,6 @@ df_result.to_csv('./crawled_data/'+'page' + str(page) + '.csv', mode='a', encodi
 # 이건 수정한 부분! 최종 첨부내용에 뉴스본문 추가
 result= {"날짜" : date_result, "언론사" : source_result, "기사제목" : title_result, "링크" : link_result, "본문" : content_result}
 ```
+
+## 3. Result
+![image](https://user-images.githubusercontent.com/55427886/113545137-8e943a00-9624-11eb-9656-2ff7c9a34d69.png)
